@@ -1,0 +1,8 @@
+{
+  "name": "Corte Fácil",
+  "description": "Sistema de agendamento premium.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
